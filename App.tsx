@@ -72,6 +72,7 @@ function App(): React.JSX.Element {
         contentInsetAdjustmentBehavior="automatic"
         style={backgroundStyle}>
         <Header />
+        <Text>123</Text>
         <View
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
