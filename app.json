@@ -1,4 +1,9 @@
 {
   "name": "studyRn",
-  "displayName": "studyRn"
+  "displayName": "studyRn",
+  "icon": "./assets/Image/goal.png",
+  "backgroundColor": "#red",
+  "orientation": "default",
 }
+
+
